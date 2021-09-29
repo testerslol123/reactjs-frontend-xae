@@ -46,7 +46,7 @@ function App() {
         <div className="konten">
         <div className="spacesuit-photo"></div>
         {/* <div className=""></div> */}
-          <img src={blockSuit} className="spacesuit-background"/>
+          <img src={blockSuit} className="spacesuit-background" alt="foto tangga"/>
           
           
           <h3 className="text-title">Adventure Together</h3>
